@@ -1,4 +1,22 @@
-Sprint 1
+# RECIPE FLOW
+
+Recipes App – Descoberta, preparo e organização de receitas com recursos offline e moderação.
+
+## Descrição do Desafio
+
+Consumidores têm dificuldade em encontrar receitas confiáveis e rápidas para o dia a dia, ajustar porções e organizar compras. Criadores e marcas precisam de um canal moderado para publicar conteúdo e acompanhar métricas simples. O app endereça essas dores com:
+
+- Descoberta guiada (busca por ingrediente/tempo/dificuldade e destaques sazonais).
+
+- Preparo por etapas com timers e lista de compras automática.
+
+- Favoritos, avaliações e salvar offline.
+
+- Painel admin para moderação e estatísticas básicas.
+
+## Backlog de Produto
+
+### Sprint 1
 
 ![User Stories – Sprint 1](./documentation/images/user-stories-sprint-1.png)
 
@@ -14,7 +32,7 @@ Sprint 1
 
 ---
 
-Sprint 2
+### Sprint 2
 
 ![User Stories – Sprint 2](./documentation/images/user-stories-sprint-2.png)
 
@@ -30,7 +48,7 @@ Sprint 2
 
 ---
 
-Sprint 3
+### Sprint 3
 
 ![User Stories – Sprint 3](./documentation/images/user-stories-sprint-3.png)
 
@@ -40,3 +58,18 @@ Sprint 3
 * Seleção de idioma do app e conteúdos traduzidos quando disponíveis.
 * Compartilhar receita (WhatsApp/Instagram/Facebook).
 * Ajuste de porções com recálculo automático de ingredientes.
+
+## Tecnologias
+
+> 🚧 **Em desenvolvimento!**  
+> Este projeto está em construção ativa. Novas funcionalidades, melhorias e correções estão sendo implementadas continuamente.
+
+## Estrutura do projeto
+
+> 🚧 **Em desenvolvimento!**  
+> Este projeto está em construção ativa. Novas funcionalidades, melhorias e correções estão sendo implementadas continuamente.
+
+## Como executar
+
+> 🚧 **Em desenvolvimento!**  
+> Este projeto está em construção ativa. Novas funcionalidades, melhorias e correções estão sendo implementadas continuamente.

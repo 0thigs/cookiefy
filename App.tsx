@@ -1,11 +1,11 @@
-import { Text } from 'react-native';
+import { Text, View } from 'react-native';
 
 import './global.css';
 
 export default function App() {
   return (
-    <>
-      <Text>Hello World</Text>
-    </>
+    <View className="flex-1 justify-center items-center bg-white">
+      <Text className="text-2xl font-bold text-blue-500">Hello World</Text>
+    </View>
   );
 }

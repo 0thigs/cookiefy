@@ -8,13 +8,13 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 ## 📖 Backlog do Produto
 
-🚧 Em andamento 🚧
+[Backlog do Produto](./documentation/images/user-stories.png)
 
 ---
 
 ## 📅 Sprints
 
-**Sprint 1**: ✅ [Concluído](./docs/backlog.md#sprint-1---mvp-concluído-)
+**Sprint 1**: 🚧 [Em Desenvolvimento](./docs/backlog.md#sprint-1---mvp-em-desenvolvimento-)
 **Sprint 2**: 🚧 [Em Desenvolvimento](./docs/backlog.md#sprint-2---funcionalidades-avançadas-em-desenvolvimento-)
 **Sprint 3**: 📋 [Planejado](./docs/backlog.md#sprint-3---recursos-premium-planejado-)
 
@@ -26,7 +26,6 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 - [React Native](https://reactnative.dev/) para construir a interface do aplicativo
 - [TypeScript](https://www.typescriptlang.org/) para garantir a tipagem estrita e a robustez do código
 - [Expo](https://expo.dev/) para facilitar o desenvolvimento e a distribuição do aplicativo
-- [NativeBase](https://nativebase.io/) para criar componentes de interface consistentes e estilizados
 
 ### 📟 Servidor
 - [Node.js](https://nodejs.org/) com [Express](https://expressjs.com/) para construir o servidor

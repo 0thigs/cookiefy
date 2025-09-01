@@ -1,7 +1,5 @@
 Sprint 1
 
-![User Stories – Sprint 1](./documentation/images/user-stories-sprint-1.png)
-
 * Cadastro por e‑mail/senha.
 * Login com Google.
 * Publicação de receitas próprias (fotos + descrição).
@@ -12,11 +10,11 @@ Sprint 1
 * Favoritar receita e lista pessoal de favoritos.
 * Edição de perfil (nome e foto).
 
+![User Stories Sprint 1](documentation/images/user-stories-sprint-1.png)
+
 ---
 
 Sprint 2
-
-![User Stories – Sprint 2](./documentation/images/user-stories-sprint-2.png)
 
 * Avaliar receitas com nota e comentário.
 * Tutoriais em vídeo dentro do app.
@@ -28,11 +26,11 @@ Sprint 2
 * Filtros por restrições alimentares e por quantidade de porções.
 * Gerenciar favoritos e receitas baixadas no perfil.
 
+![User Stories Sprint 2](documentation/images/user-stories-sprint-2.png)
+
 ---
 
 Sprint 3
-
-![User Stories – Sprint 3](./documentation/images/user-stories-sprint-3.png)
 
 * Painel administrativo no app (login restrito) para gestão de receitas.
 * Moderação de receitas enviadas (excluir/editar) e métricas básicas.
@@ -40,3 +38,5 @@ Sprint 3
 * Seleção de idioma do app e conteúdos traduzidos quando disponíveis.
 * Compartilhar receita (WhatsApp/Instagram/Facebook).
 * Ajuste de porções com recálculo automático de ingredientes.
+
+![User Stories Sprint 3](documentation/images/user-stories-sprint-3.png)

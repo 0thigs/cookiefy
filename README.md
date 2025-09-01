@@ -1,8 +1,8 @@
-# Recipe Flow 🍳
+# Cookiefy 🍳
 
 ## 🖥️ Descrição
 
-O Recipe Flow é uma plataforma inovadora para compartilhamento e descoberta de receitas culinárias. Nosso objetivo é conectar amantes da culinária através de uma experiência intuitiva e funcional para explorar, criar e compartilhar receitas deliciosas.
+O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de receitas culinárias. Nosso objetivo é conectar amantes da culinária através de uma experiência intuitiva e funcional para explorar, criar e compartilhar receitas deliciosas.
 
 ---
 

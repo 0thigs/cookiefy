@@ -1,5 +1,7 @@
 Sprint 1
 
+![User Stories – Sprint 1](./documentation/images/user-stories-sprint-1.png)
+
 * Cadastro por e‑mail/senha.
 * Login com Google.
 * Publicação de receitas próprias (fotos + descrição).
@@ -14,6 +16,8 @@ Sprint 1
 
 Sprint 2
 
+![User Stories – Sprint 2](./documentation/images/user-stories-sprint-2.png)
+
 * Avaliar receitas com nota e comentário.
 * Tutoriais em vídeo dentro do app.
 * Gerar lista de compras a partir da receita e marcar itens comprados.
@@ -27,6 +31,8 @@ Sprint 2
 ---
 
 Sprint 3
+
+![User Stories – Sprint 3](./documentation/images/user-stories-sprint-3.png)
 
 * Painel administrativo no app (login restrito) para gestão de receitas.
 * Moderação de receitas enviadas (excluir/editar) e métricas básicas.

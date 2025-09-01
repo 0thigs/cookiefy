@@ -1,13 +1,10 @@
 module.exports = function (api) {
   api.cache(true);
+  let plugins = [];
+
   return {
-    presets: ['babel-preset-expo'],
-    plugins: [
-      'react-native-css-interop/babel', // necessário no NativeWind v4
-      'nativewind/babel',
-      // aliases opcionais
-      ['module-resolver', { alias: { '~': './src', '@': './' } }],
-      'react-native-reanimated/plugin', // SEMPRE por último
-    ],
+    presets: [['babel-preset-expo', { jsxImportSource: 'nativewind' }], 'nativewind/babel'],
+
+    plugins,
   };
 };

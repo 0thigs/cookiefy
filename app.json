@@ -3,18 +3,18 @@
     "name": "recipe-flow-app",
     "slug": "recipe-flow-app",
     "version": "1.0.0",
-    "scheme": "recipeflow",
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
     "experiments": {
       "tsconfigPaths": true
     },
-    "plugins": [
-      "expo-router",
-      "expo-secure-store",
-      "expo-localization"
-    ],
+    "plugins": [],
     "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -26,6 +26,7 @@
     },
     "android": {
       "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
     }

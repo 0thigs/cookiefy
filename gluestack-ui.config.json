@@ -4,7 +4,7 @@
     "css": "global.css"
   },
   "app": {
-    "entry": "App.tsx",
+    "entry": "src/app/AppProvider.tsx",
     "components": "components/ui"
   }
 }

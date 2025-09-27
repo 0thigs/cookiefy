@@ -14,71 +14,45 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 ## 📅 Sprints
 
-**Sprint 1**: 🚧 [Em Desenvolvimento](./docs/backlog.md#sprint-1---mvp-em-desenvolvimento-)
-**Sprint 2**: 🚧 [Em Desenvolvimento](./docs/backlog.md#sprint-2---funcionalidades-avançadas-em-desenvolvimento-)
-**Sprint 3**: 📋 [Planejado](./docs/backlog.md#sprint-3---recursos-premium-planejado-)
+**Sprint 1**: [User Stories](./documentation/images/user-stories-sprint-1.png)
+
+**Sprint 2**: 🚧 [Futuro Desenvolvimento](./docs/backlog.md#sprint-2---funcionalidades-avançadas-em-desenvolvimento-)
+
+**Sprint 3**: 🚧 [Futuro Desenvolvimento](./docs/backlog.md#sprint-3---recursos-premium-planejado-)
 
 ---
-
-## 🛠️ Tecnologias
-
-### 📱 Mobile
-- [React Native](https://reactnative.dev/) para construir a interface do aplicativo
-- [TypeScript](https://www.typescriptlang.org/) para garantir a tipagem estrita e a robustez do código
-- [Expo](https://expo.dev/) para facilitar o desenvolvimento e a distribuição do aplicativo
-
-### 📟 Servidor
-- [Node.js](https://nodejs.org/) com [Express](https://expressjs.com/) para construir o servidor
-- [TypeScript](https://www.typescriptlang.org/) para garantir a tipagem estrita e a robustez do código
-- [Prisma](https://www.prisma.io/) para gerenciar o banco de dados
-
-### 📦 Banco de Dados
-- [PostgreSQL](https://www.postgresql.org/) para o banco de dados
-- [Supabase](https://supabase.com/) para autenticação e armazenamento
-
----
-
-## 🌐 Estrutura do Projeto
-
-🚧 Em andamento 🚧
-
----
-
-## 📋 Funcionalidades por Sprint
 
 ### Sprint 1
-* Cadastro por e‑mail/senha
-* Login com Google
-* Publicação de receitas próprias (fotos + descrição)
-* Tela inicial com destaques e categorias sazonais
-* Busca por nome, ingrediente e tipo de culinária
-* Filtros por tempo de preparo e nível de dificuldade
-* Detalhe da receita (ingredientes, passos, tempo, valor nutricional, fotos)
-* Favoritar receita e lista pessoal de favoritos
-* Edição de perfil (nome e foto)
+
+1. **Alta**: Como usuário, quero me cadastrar com e-mail e senha, para acessar minhas receitas no app. (5)
+2. **Alta**: Como usuário, quero publicar minhas próprias receitas com fotos e descrições, para compartilhar minhas criações. (8)
+3. **Alta**: Como usuário, quero ver uma tela inicial com receitas em destaque e categorias, para descobrir opções rapidamente. (8)
+4. **Média**: Como usuário, quero buscar receitas por nome, ingrediente ou tipo de culinária, para encontrar o que preciso. (2)
+5. **Média**: Como usuário, quero filtrar resultados por tempo de preparo e nível de dificuldade, para refinar a busca. (5)
+6. **Média**: Como usuário, quero abrir o detalhe da receita com ingredientes, passos, tempo, valor nutricional e fotos, para cozinhar sem dúvidas. (5)
+7. **Baixa**: Como usuário, quero um modo de preparo interativo com timers por etapa, para cozinhar sem sair da tela. (5)
+8. **Baixa**: Como usuário, quero favoritar uma receita e acessar minha lista pessoal de favoritos, para achar rápido depois. (5)
+9. **Baixa**: Como usuário, quero editar dados básicos do meu perfil (nome/foto), para manter minha conta atualizada. (2)
 
 ![User Stories Sprint 1](documentation/images/user-stories-sprint-1.png)
 
 ### Sprint 2
-* Avaliar receitas com nota e comentário
-* Tutoriais em vídeo dentro do app
-* Gerar lista de compras a partir da receita e marcar itens comprados
-* Modo de preparo interativo com timers por etapa
-* Salvar receitas para acesso **offline** (texto + imagens essenciais)
-* Notificações push de novas receitas e sugestões
-* Recomendações com base em histórico de visualizações e favoritos
-* Filtros por restrições alimentares e por quantidade de porções
-* Gerenciar favoritos e receitas baixadas no perfil
+
+1. **Alta**: Como usuário, quero entrar com minha conta Google, para logar rapidamente. (5)
+2. **Alta**: Como usuário, quero avaliar receitas com nota e comentário, para ajudar outros e registrar minha opinião. (5)
+3. **Alta**: Como usuário, quero gerar uma lista de compras a partir de uma receita e marcar itens comprados, para organizar minhas compras. (5)
+4. **Média**: Como usuário, quero salvar receitas para acesso offline (texto + imagens essenciais), para consultar sem internet. (3)
+5. **Baixa**: Como usuário, quero receber notificações push de novas receitas e sugestões, para não perder novidades. (3)
+6. **Baixa**: Como usuário, quero compartilhar uma receita via WhatsApp/Instagram/Facebook, para dividir com amigos e família. (3)
 
 ![User Stories Sprint 2](documentation/images/user-stories-sprint-2.png)
 
 ### Sprint 3
-* Painel administrativo no app (login restrito) para gestão de receitas
-* Moderação de receitas enviadas (excluir/editar) e métricas básicas
-* Comandos de voz para buscar e navegar pelos passos da receita
-* Seleção de idioma do app e conteúdos traduzidos quando disponíveis
-* Compartilhar receita (WhatsApp/Instagram/Facebook)
-* Ajuste de porções com recálculo automático de ingredientes
+
+1. **Alta**: Como gestor, quero acessar um painel administrativo no próprio app com login restrito, para gerenciar receitas. (5)
+2. **Alta**: Como gestor, quero moderar receitas enviadas (excluir/editar) e monitorar estatísticas de uso, para garantir qualidade e acompanhar o produto. (5)
+3. **Média**: Como usuário, quero usar comandos de voz para buscar e navegar pelos passos da receita, para cozinhar com as mãos livres. (8)
+4. **Média**: Como usuário, quero selecionar o idioma do app e ver conteúdos traduzidos quando disponíveis, para usar no meu idioma. (2)
 
 ![User Stories Sprint 3](documentation/images/user-stories-sprint-3.png)
 
@@ -86,45 +60,125 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 ## 🚀 Instalação
 
-Para configurar e executar o projeto localmente, siga estas etapas:
+O Cookiefy é composto por dois projetos principais:
 
-### Pré-requisitos
-Certifique-se de ter instalado:
-- Node.js
-- Yarn ou npm
-- PostgreSQL
-- Expo CLI
+- [cookiefy-mobile](https://github.com/0thigs/cookiefy-mobile): Aplicativo mobile (React Native + Expo)
 
-### Passos
-1. Clone o repositório:
+- [cookiefy-server](https://github.com/0thigs/cookiefy-server): API/Servidor (Node.js + TypeScript + Prisma)
+
+Siga os passos abaixo para rodar ambos localmente:
+
+### 1. Clonar os repositórios
+
 ```bash
-git clone https://github.com/0thigs/recipe-flow.git
+git clone https://github.com/0thigs/cookiefy-mobile.git
+
+git clone https://github.com/0thigs/cookiefy-server.git
 ```
-
-2. Instale as dependências:
-```bash
-cd recipe-flow
-yarn install
-```
-
-3. Configure as variáveis de ambiente conforme o arquivo `.env.example`.
-
-4. Execute o servidor de desenvolvimento:
-```bash
-
-```
-
-5. Acesse o aplicativo no navegador: [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 📚 Documentação
+### 2. Instalar dependências
+
+#### Mobile (App)
+
+```bash
+cd cookiefy-mobile
+npm install
+```
+
+#### Servidor (API)
+
+```bash
+cd ../cookiefy-server
+npm install
+```
+
+---
+
+### 3. Configurar variáveis de ambiente
+
+#### Mobile
+
+- Edite o arquivo `app.json` e configure o campo `extra.apiBaseUrl` para apontar para a URL da API local, por exemplo:
+  ```json
+  "extra": {
+    "apiBaseUrl": "http://localhost:3333"
+  }
+  ```
+
+#### Servidor
+
+- Copie `.env.example` para `.env` e preencha as variáveis:
+  ```bash
+  cp .env.example .env
+  ```
+- Configure as variáveis principais, como:
+  - `DATABASE_URL` (string de conexão do PostgreSQL)
+  - `JWT_ACCESS_SECRET` e `JWT_REFRESH_SECRET` (chaves secretas)
+
+---
+
+### 4. Configurar o banco de dados (Servidor)
+
+Certifique-se de ter o PostgreSQL rodando e a string de conexão correta no `.env`.
+
+```bash
+# Executar as migrations do Prisma
+npx prisma migrate
+
+```
+
+---
+
+### 5. Rodar os projetos
+
+#### Servidor (API)
+
+```bash
+cd cookiefy-server
+npm run dev
+```
+
+A API estará disponível em http://localhost:3333
+
+#### Mobile (App)
+
+Abra um novo terminal:
+
+```bash
+cd cookiefy-mobile
+npx expo start
+```
+
+O Expo abrirá o app no navegador e você poderá rodar no emulador ou dispositivo físico.
+
+---
+
+### 6. Testar a aplicação
+
+- Acesse a API em [http://localhost:3333/docs](http://localhost:3333/docs) para ver a documentação Swagger.
+- Use o app mobile normalmente, ele já estará conectado à API local.
+
+---
+
+### Observações
+
+- Para rodar em produção, consulte os READMEs de cada repositório para detalhes de build e deploy.
+- Certifique-se de que as portas não estejam em uso e que o mobile aponte para o IP correto da API se for testar em dispositivo físico.
+
+8. **Baixa**: Como usuário, quero favoritar uma receita e acessar minha lista pessoal de favoritos, para achar rápido depois. (5)
+9. **Baixa**: Como usuário, quero editar dados básicos do meu perfil (nome/foto), para manter minha conta atualizada. (2)
+
+---
+
+<!-- ## 📚 Documentação
 
 - [Documentação do Projeto](./docs/README.md)
 - [Backlog do Produto](./docs/backlog.md)
 - [Arquitetura do Sistema](./docs/architecture.md)
 - [API Documentation](./docs/api.md)
-- [Padrão de Commits](./docs/commit-guideline.md)
+- [Padrão de Commits](./docs/commit-guideline.md) -->
 
 ---
 
@@ -136,5 +190,4 @@ Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o
 
 ## 👨‍💻 Autor
 
-### [Seu Nome]
-> Desenvolvedor de Software e entusiasta da culinária
+### 0thigs

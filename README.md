@@ -29,35 +29,35 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 ### Sprint 1
 
-1. **Alta**: Como usuário, quero me cadastrar com e-mail e senha, para acessar minhas receitas no app. (5)
-2. **Alta**: Como usuário, quero publicar minhas próprias receitas com fotos e descrições, para compartilhar minhas criações. (8)
-3. **Alta**: Como usuário, quero ver uma tela inicial com receitas em destaque e categorias, para descobrir opções rapidamente. (8)
-4. **Média**: Como usuário, quero buscar receitas por nome, ingrediente ou tipo de culinária, para encontrar o que preciso. (2)
-5. **Média**: Como usuário, quero filtrar resultados por tempo de preparo e nível de dificuldade, para refinar a busca. (5)
-6. **Média**: Como usuário, quero abrir o detalhe da receita com ingredientes, passos, tempo, valor nutricional e fotos, para cozinhar sem dúvidas. (5)
-7. **Baixa**: Como usuário, quero um modo de preparo interativo com timers por etapa, para cozinhar sem sair da tela. (5)
-8. **Baixa**: Como usuário, quero favoritar uma receita e acessar minha lista pessoal de favoritos, para achar rápido depois. (5)
-9. **Baixa**: Como usuário, quero editar dados básicos do meu perfil (nome/foto), para manter minha conta atualizada. (2)
+- Cadastro de usuário com e-mail e senha
+- Publicação de receitas com fotos e descrições
+- Tela inicial com receitas em destaque e categorias
+- Busca de receitas por nome, ingrediente ou tipo de culinária
+- Filtros por tempo de preparo e nível de dificuldade
+- Visualização detalhada da receita (ingredientes, passos, tempo, valor nutricional, fotos)
+- Modo de preparo interativo com timers por etapa
+- Favoritar receitas e acessar lista de favoritos
+- Edição de dados básicos do perfil (nome/foto)
 
 ![User Stories Sprint 1](documentation/images/user-stories-sprint-1.png)
 
 ### Sprint 2
 
-1. **Alta**: Como usuário, quero entrar com minha conta Google, para logar rapidamente. (5)
-2. **Alta**: Como usuário, quero avaliar receitas com nota e comentário, para ajudar outros e registrar minha opinião. (5)
-3. **Alta**: Como usuário, quero gerar uma lista de compras a partir de uma receita e marcar itens comprados, para organizar minhas compras. (5)
-4. **Média**: Como usuário, quero salvar receitas para acesso offline (texto + imagens essenciais), para consultar sem internet. (3)
-5. **Baixa**: Como usuário, quero receber notificações push de novas receitas e sugestões, para não perder novidades. (3)
-6. **Baixa**: Como usuário, quero compartilhar uma receita via WhatsApp/Instagram/Facebook, para dividir com amigos e família. (3)
+- Login com conta Google
+- Avaliação de receitas com nota e comentário
+- Geração de lista de compras a partir de uma receita, com marcação de itens comprados
+- Salvar receitas para acesso offline (texto + imagens essenciais)
+- Notificações push de novas receitas e sugestões
+- Compartilhamento de receitas via WhatsApp/Instagram/Facebook
 
 ![User Stories Sprint 2](documentation/images/user-stories-sprint-2.png)
 
 ### Sprint 3
 
-1. **Alta**: Como gestor, quero acessar um painel administrativo no próprio app com login restrito, para gerenciar receitas. (5)
-2. **Alta**: Como gestor, quero moderar receitas enviadas (excluir/editar) e monitorar estatísticas de uso, para garantir qualidade e acompanhar o produto. (5)
-3. **Média**: Como usuário, quero usar comandos de voz para buscar e navegar pelos passos da receita, para cozinhar com as mãos livres. (8)
-4. **Média**: Como usuário, quero selecionar o idioma do app e ver conteúdos traduzidos quando disponíveis, para usar no meu idioma. (2)
+- Painel administrativo no app para gestão de receitas (acesso restrito)
+- Moderação de receitas enviadas (excluir/editar) e monitoramento de estatísticas de uso
+- Comandos de voz para buscar e navegar pelos passos da receita
+- Seleção de idioma do app e conteúdos traduzidos quando disponíveis
 
 ![User Stories Sprint 3](documentation/images/user-stories-sprint-3.png)
 

@@ -1,0 +1,6 @@
+[submodule "cookiefy-mobile"]
+	path = cookiefy-mobile
+	url = https://github.com/0thigs/cookiefy-mobile
+[submodule "cookiefy-server"]
+	path = cookiefy-server
+	url = https://github.com/0thigs/cookiefy-server

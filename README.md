@@ -1,4 +1,9 @@
-# Cookiefy 🍳
+<br>
+<p align="center">
+  <img src="documentation/cookiefy/logo.png" alt="Cookiefy Logo" width="100">
+</p>
+
+<h1 align="center">Cookiefy</h1>
 
 ## 🖥️ Descrição
 
@@ -170,8 +175,6 @@ O Expo abrirá o app no navegador e você poderá rodar no emulador ou dispositi
 8. **Baixa**: Como usuário, quero favoritar uma receita e acessar minha lista pessoal de favoritos, para achar rápido depois. (5)
 9. **Baixa**: Como usuário, quero editar dados básicos do meu perfil (nome/foto), para manter minha conta atualizada. (2)
 
----
-
 <!-- ## 📚 Documentação
 
 - [Documentação do Projeto](./docs/README.md)
@@ -190,4 +193,13 @@ Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o
 
 ## 👨‍💻 Autor
 
-### 0thigs
+<p align="center">
+  <img src="https://github.com/0thigs.png" alt="0thigs Avatar" width="100" style="border-radius: 50%;">
+</p>
+
+<p align="center">
+  <b>Desenvolvido por <a href="https://github.com/0thigs">0thigs</a></b><br>
+  <a href="https://github.com/0thigs">
+    <img src="https://img.shields.io/github/followers/0thigs?label=GitHub&style=social" alt="GitHub Followers">
+  </a>
+</p>

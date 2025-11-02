@@ -43,17 +43,18 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 ### Sprint 2
 
-- Login com conta Google
+
 - Avaliação de receitas com nota e comentário
 - Geração de lista de compras a partir de uma receita, com marcação de itens comprados
 - Salvar receitas para acesso offline (texto + imagens essenciais)
-- Notificações push de novas receitas e sugestões
 - Compartilhamento de receitas via WhatsApp/Instagram/Facebook
 
 ![User Stories Sprint 2](documentation/images/user-stories-sprint-2.png)
 
 ### Sprint 3
 
+- Login com conta Google
+- Notificações push de novas receitas e sugestões
 - Painel administrativo no app para gestão de receitas (acesso restrito)
 - Moderação de receitas enviadas (excluir/editar) e monitoramento de estatísticas de uso
 - Comandos de voz para buscar e navegar pelos passos da receita

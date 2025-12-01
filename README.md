@@ -21,9 +21,9 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 **Sprint 1**: [User Stories](./documentation/images/user-stories-sprint-1.png)
 
-**Sprint 2**: 🚧 [Futuro Desenvolvimento](./docs/backlog.md#sprint-2---funcionalidades-avançadas-em-desenvolvimento-)
+**Sprint 2**: [USer Stories](./documentation/images/user-stories-sprint-2.png)
 
-**Sprint 3**: 🚧 [Futuro Desenvolvimento](./docs/backlog.md#sprint-3---recursos-premium-planejado-)
+**Sprint 3**: [USer Stories](./documentation/images/user-stories-sprint-3.png)
 
 ---
 
@@ -53,12 +53,12 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 ### Sprint 3
 
-- Login com conta Google
 - Notificações push de novas receitas e sugestões
 - Painel administrativo no app para gestão de receitas (acesso restrito)
 - Moderação de receitas enviadas (excluir/editar) e monitoramento de estatísticas de uso
 - Comandos de voz para buscar e navegar pelos passos da receita
 - Seleção de idioma do app e conteúdos traduzidos quando disponíveis
+- Login com conta Google
 
 ![User Stories Sprint 3](documentation/images/user-stories-sprint-3.png)
 

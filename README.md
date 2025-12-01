@@ -11,6 +11,10 @@ O Cookiefy é uma plataforma inovadora para compartilhamento e descoberta de rec
 
 ---
 
+## Link para download do APK
+
+https://drive.google.com/file/d/1Lzti_jqgSkCUmkehF6ZwM9kv--JP8WOc/view?usp=drive_link
+
 ## 📖 Backlog do Produto
 
 [Backlog do Produto](./documentation/images/user-stories.png)
